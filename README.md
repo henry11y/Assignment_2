@@ -11,4 +11,4 @@ Input: CSV file with an age column. Output: statistics (min age, max age, range,
 
 C. How do you use the program?
 
-Run the program, enter the filename when prompted, and view results printed on the cosole.n
+Run the program, enter the filename when prompted, and view results printed on the console
