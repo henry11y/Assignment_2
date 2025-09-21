@@ -4,4 +4,4 @@ This program calculates the range and median age of laon applicants from a CSV d
 What does the program do, include what it takes for input, and what it gives as output?
 Input: CSV file with an age column. Output: statistics (min age, max age, range, median).
 How do you use the program?
-Run the program, enter the filename when prompted, and view results printed on the cosole.
+Run the program, enter the filename when prompted, and view results printed on the cosole.n
